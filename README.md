@@ -11,22 +11,23 @@
 ![{E716B4E1-9AA6-4329-867D-7821B8AFD12B}](https://github.com/user-attachments/assets/30334c42-2e37-4da4-8807-31d67136d56d)
 ![{0741C475-5BD1-4A97-820F-E9E6A0872E6A}](https://github.com/user-attachments/assets/f380cb3d-21f5-48fc-8dee-4efbe6ff2085)
 
-## Insights para uso do Language Studio e Estúdio de Fala do Azure
-1. Language Studio (Processamento de Linguagem Natural - NLP)
-✅ Classificação de Texto – Categoriza mensagens automaticamente (positivo, negativo, neutro).
-✅ Extração de Entidades – Identifica nomes, datas, locais e produtos em textos.
-✅ Análise de Sentimentos – Avalia o tom emocional (feliz, neutro, insatisfeito).
-✅ Perguntas e Respostas (QnA Maker) – Cria bots inteligentes que respondem dúvidas comuns.
-✅ Tradução Automática – Traduz textos com IA de alta precisão.
+## **Insights para uso do Language Studio e Estúdio de Fala do Azure**
 
-2. Estúdio de Fala (Reconhecimento e Síntese de Voz)
-✅ Fala para Texto (STT - Speech-to-Text) – Transcreve áudio em tempo real.
-✅ Texto para Fala (TTS - Text-to-Speech) – Gera vozes naturais a partir de textos.
-✅ Tradução de Fala – Traduz conversas em tempo real.
-✅ Reconhecimento de Orador – Identifica usuários pela voz (segurança e personalização).
+### **1. Language Studio (Processamento de Linguagem Natural - NLP)**
+✅ **Classificação de Texto** – Categoriza mensagens automaticamente (positivo, negativo, neutro).  
+✅ **Extração de Entidades** – Identifica nomes, datas, locais e produtos em textos.  
+✅ **Análise de Sentimentos** – Avalia o tom emocional (feliz, neutro, insatisfeito).  
+✅ **Perguntas e Respostas (QnA Maker)** – Cria bots inteligentes que respondem dúvidas comuns.  
+✅ **Tradução Automática** – Traduz textos com IA de alta precisão.  
 
-3. Aplicações Práticas
-🔹 Chatbots Inteligentes – Integração com voz e texto para suporte automatizado.
-🔹 Acessibilidade Digital – Comandos de voz e leitura de tela para inclusão.
-🔹 Análise de Qualidade em Atendimento – Avaliação automática do tom de chamadas.
-🔹 Automação de Processos – Transcrição e análise de reuniões ou ligações.
+### **2. Estúdio de Fala (Reconhecimento e Síntese de Voz)**
+✅ **Fala para Texto (STT - Speech-to-Text)** – Transcreve áudio em tempo real.  
+✅ **Texto para Fala (TTS - Text-to-Speech)** – Gera vozes naturais a partir de textos.  
+✅ **Tradução de Fala** – Traduz conversas em tempo real.  
+✅ **Reconhecimento de Orador** – Identifica usuários pela voz (segurança e personalização).  
+
+### **3. Aplicações Práticas**
+🔹 **Chatbots Inteligentes** – Integração com voz e texto para suporte automatizado.  
+🔹 **Acessibilidade Digital** – Comandos de voz e leitura de tela para inclusão.  
+🔹 **Análise de Qualidade em Atendimento** – Avaliação automática do tom de chamadas.  
+🔹 **Automação de Processos** – Transcrição e análise de reuniões ou ligações.  
