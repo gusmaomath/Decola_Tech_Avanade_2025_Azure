@@ -1,0 +1,1 @@
+# Decola_Tech_Avanade_2025_Azure
